@@ -21,3 +21,17 @@ table, td, th {
 .right {
     text-align: end;
 }
+
+tfoot td{
+    text-align: center;
+    padding: 10px 300px 10px 300px;
+}
+thead th{
+    text-align: center;
+    padding: 30px 300px 30px 300px;
+}
+
+tbody td {
+    text-align: center;
+    padding: 200px 0 200px 0;
+}
