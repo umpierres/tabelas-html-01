@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+table, td, th {
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: start;
+}
+
+.right {
+    text-align: end;
+}
