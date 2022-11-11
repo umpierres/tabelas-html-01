@@ -6,8 +6,8 @@ body {
 table, td, th {
     border: 2px solid white;
     border-collapse: collapse;
-    width: 300px;
     margin: 0 auto;
+    
 }
 
 .center {
@@ -48,5 +48,7 @@ table, td, th {
 }
 
 table { 
+    width: 300px;
     margin-bottom: 30px;
+    
 }
