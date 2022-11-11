@@ -42,3 +42,11 @@ table, td, th {
     text-align: center;
     padding: 10px 0 10px 0;
 }
+
+.table-size td, th {
+    padding: 40px;
+}
+
+table { 
+    margin-bottom: 30px;
+}
