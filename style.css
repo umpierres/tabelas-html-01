@@ -22,16 +22,23 @@ table, td, th {
     text-align: end;
 }
 
-tfoot td{
-    text-align: center;
-    padding: 10px 300px 10px 300px;
-}
-thead th{
-    text-align: center;
+.top th{
     padding: 30px 300px 30px 300px;
 }
 
-tbody td {
+
+#menu-side {
+    width: 30%;
+    padding: 300px 0px 300px 0px;
     text-align: center;
-    padding: 200px 0 200px 0;
+}
+
+#content-side {
+    width: 70%;
+    text-align: center;
+}
+
+.bottom td{
+    text-align: center;
+    padding: 10px 0 10px 0;
 }
